@@ -1,6 +1,6 @@
 # Ecommerce - Megabyte - Finalizado
 
-### [Ver demo](http://ecommerce-megabyte.typingideas.com)
+### [Ver demo](http://ecommerce-megabyte.typingidea.com)
 
 usuario: admin@admin.com \
 password: admin-ad
